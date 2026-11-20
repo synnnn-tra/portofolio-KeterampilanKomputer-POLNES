@@ -1,0 +1,14 @@
+flowchart TD
+    A([MULAI]) --> B[PENTOKAN KE TEPI]
+    B --> C[ISI REGISTER DATA LEVEL DENGAN 0]
+    C --> D[/BACA LEVEL SINYAL DARI ADC/]
+    D --> E{ADC > REGISTER}
+    E -- YA --> F[ISIKAN DATA ADC KE REGISTER]
+    F --> G[CATAT POSISI ANTENA]
+    G --> H{APA SUDAH MENTOK ?}
+    E -- TIDAK --> H
+    H -- TIDAK --> I[GERAKAN ANTENA SATU STEP]
+    I --> D
+    H -- YA --> J[PUTAR KE KIRI]
+    J --> K[CARI POSISI TERBAIK]
+    K --> L([SELESAI])
