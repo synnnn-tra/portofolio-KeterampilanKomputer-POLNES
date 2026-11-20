@@ -1,0 +1,8 @@
+# OS & Office Temporary Files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
