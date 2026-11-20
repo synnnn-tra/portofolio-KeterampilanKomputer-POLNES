@@ -67,7 +67,8 @@ Berikut adalah daftar 4 tugas utama yang telah dikerjakan dan terdokumentasi di 
   * [`Dokumentasi Tugas 2`](./tugas-2-excel-analisis-data/README.md)
 
 ### C. Tugas 3 — Media Presentasi Tugas 1 & Tugas 2
-* **Deskripsi:** Menyusun bahan presentasi 7 salindia (*slides*) yang merangkum alur kerja teknis Mail Merge (Tugas 1) serta metodologi perhitungan statistik dan visualisasi grafik penjualan tiket pesawat (Tugas 2).
+* **Deskripsi:** Menyusun bahan presentasi dan memaparkan alur kerja teknis Mail Merge (Tugas 1), pengolahan tabel serta rumus statistik Excel (Tugas 2), dan integrasi keduanya dalam video presentasi.
+* **Video Presentasi:** [Tonton di YouTube — Tugas Presentasi 3 (M_ Abid)](https://youtu.be/48dinAQurxY)
 * **Artefak Tersedia:**
   * [`Presentasi_Tugas1_dan_Tugas2.pptx`](./tugas-3-presentasi/Presentasi_Tugas1_dan_Tugas2.pptx)
   * [`Dokumentasi Tugas 3`](./tugas-3-presentasi/README.md)
